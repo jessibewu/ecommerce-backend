@@ -29,14 +29,11 @@
 
   ## Usage
   Run `npm run seed` to seed data to your database.
-  Run `node server.js` or `npm start` command at the root of the file to connect to the MySQL database on server start.
+  Then run `node server.js` or `npm start` command at the root of the file to connect to the MySQL database on server start.
 
   Demo Video:
 
-  Full youtube video can be viewed [here]().
-
-  Below is the GIF version for quick reference:
-  ![Demo Video](./src/demo-video.gif)
+  - Full youtube video can be viewed [here](https://youtu.be/Zqm2mlsYrYY).
   
   ## License
   This application is covered by [MIT](https://opensource.org/licenses/MIT) license. 
